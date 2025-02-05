@@ -12,7 +12,6 @@ public class _05_ChangeType {
 		System.out.println("num1Change : " + num1Change);
 		System.out.println(num1Change + num2);
 		System.out.println((int)1.23);
-
 	}
 
 }
