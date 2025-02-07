@@ -25,7 +25,7 @@ public class _05_Profile {
 		
 		
 		name = Profile.next(); 
-		address = Profile.next();
+		address = Profile.nextLine();
 		age = Profile.nextInt();
 		height = Profile.nextDouble();
 		Profile.close();
